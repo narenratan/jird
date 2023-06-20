@@ -1,0 +1,27 @@
+{
+    "t": 0.2,
+    "f": 440.0,
+    "synth": "surge_xt",
+    "parts": [
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Keys/EP 1.fxp",
+            "volume": -10.0,
+            "panning": 0.0
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Keys/EP 2.fxp",
+            "volume": -7.0,
+            "panning": 0.5
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Keys/EP 2.fxp",
+            "volume": -1.0,
+            "panning": -0.5
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Polysynths/Korg Triton.fxp",
+            "volume": -7.0,
+            "panning": 0.0
+        }
+    ]
+}

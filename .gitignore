@@ -1,0 +1,7 @@
+**/__pycache__
+.coverage
+.hypothesis
+.tox
+*.egg-info
+docs/build/
+build

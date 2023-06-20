@@ -1,0 +1,28 @@
+{
+    "t": 0.63,
+    "f": 440.0,
+    "tuning_method": "scala",
+    "synth": "surge_xt",
+    "parts": [
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Polysynths/Oiro.fxp",
+            "volume": -8.25,
+            "panning": 0.5
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Polysynths/Spik.fxp",
+            "volume": -3.0,
+            "panning": 0.0
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Polysynths/Boss.fxp",
+            "volume": -7.0,
+            "panning": 0.0
+        },
+        {
+            "instrument": "~/repos/surge/resources/data/patches_factory/Basses/E-Bass.fxp",
+            "volume": -5.0,
+            "panning": -0.5
+        }
+    ]
+}

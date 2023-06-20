@@ -1,0 +1,13 @@
+{
+    "t": 0.63,
+    "f": 440.0,
+    "tuning_method": "scala",
+    "synth": "surge_xt",
+    "volume": -6.6666,
+    "parts": [
+        {
+            "volume": -8.25,
+            "panning": 0.0
+        }
+    ]
+}
