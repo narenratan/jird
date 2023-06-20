@@ -5,7 +5,7 @@ Jird
 
 It uses ratios to express frequencies, durations, and volumes.
 
-The jird documentation is available on `readthedocs <jird.readthedocs.io>`_.
+The jird documentation is available on [readthedocs](jird.readthedocs.io).
 
 Developing
 ----------
