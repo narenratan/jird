@@ -3,9 +3,9 @@ Interactive mode
 
 Various sharp fourth chords
 ---------------------------
-Chords with a major third and sharp fourth, like CEF#, sound dreamy. In
-just intonation there are various chords with this sort of sound. Let's
-try some out!
+Chords with a major third and sharp fourth, like CEF#, can sound
+'dreamy'. In just intonation there are various chords with this sort of
+sound. Let's try some out!
 
 The interpreter can be started by running
 

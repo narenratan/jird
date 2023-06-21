@@ -16,7 +16,8 @@ Say we have the following ratios in a file `ratios.txt`
     5/3
     12/7
 
-We can practice recognizing the corresponding intervals (1/1 played together with the given ratio) by running
+We can practice recognizing the corresponding intervals (1/1 played
+together with the given ratio) by running
 
 .. code:: console
 
@@ -49,7 +50,10 @@ A typical session looks like this:
 
 Example interval sets
 ---------------------
-The following training sets are chosen from nineteen just intervals (which happen to be close to nineteen-tone equal temperament). The names are from Harry Partch's `Genesis of a Music` - note these are 'arbitrarily named categories' grouped 'according to psychological (or whimsical) reactions'.
+The following training sets are chosen from nineteen just intervals (which
+happen to be close to nineteen-tone equal temperament). The names are from
+Harry Partch's `Genesis of a Music` - note these are "arbitrarily named
+categories" grouped "according to psychological (or whimsical) reactions".
 
 **Emotion**
 
@@ -69,6 +73,6 @@ The following training sets are chosen from nineteen just intervals (which happe
 
 Controlling playback
 --------------------
-All options for :ref:`playback<playback>` can be used in ear training mode too, for
-example `-f` to set the frequency of 1/1 and `-p` to set the instrument
-sound used.
+All options for :ref:`playback<playback>` can be used in ear training
+mode too, for example `-f` to set the frequency of 1/1 and `-p` to set
+the instrument sound used.

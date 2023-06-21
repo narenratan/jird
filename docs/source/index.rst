@@ -31,6 +31,9 @@ express frequencies, durations, and volumes.
 Some music made with jird is on `SoundCloud
 <https://soundcloud.com/jird-836630787/sets/jird-music>`_.
 
+The jird source code is available on `github
+<https://github.com/narenratan/jird>`_.
+
 Contents
 --------
 
