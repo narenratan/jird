@@ -9,6 +9,14 @@ Minimal
 #.  Download the jird executable from the github `release page
     <https://github.com/narenratan/jird/releases>`_.
 
+#.  Make jird executable by running
+
+    .. code:: console
+
+        $ chmod +x <path_to_jird>
+
+    where `<path_to_jird>` is the path to the downloaded jird executable.
+
 #.  Install rlwrap and fluidsynth
 
     .. code-block:: console
