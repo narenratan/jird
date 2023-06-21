@@ -6,7 +6,8 @@ are given for Debian/Ubuntu.
 
 Minimal
 -------
-#.  Download the jird executable from the github release page.
+#.  Download the jird executable from the github `release page
+    <https://github.com/narenratan/jird/releases>`_.
 
 #.  Install rlwrap and fluidsynth
 
