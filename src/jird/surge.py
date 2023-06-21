@@ -108,7 +108,7 @@ class RenderError(Exception):
 
 
 def render_with_surge(
-    music: Piece, config: Config, amplitude: float = 0.8
+    music: Piece, config: Config, amplitude: float = 0.5
 ) -> "np.ndarray[Tuple[int, int], np.dtype[np.int16]]":
     """Render piece to array."""
     arrays = [process_part(x, config, index=i) for (i, x) in enumerate(music)]
