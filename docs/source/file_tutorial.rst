@@ -56,7 +56,7 @@ this to middle C at 261.31Hz we can run
 
     $ jird -f 261.31 music.txt
 
-By default jird used Fluidsynth for playback. We can specify which midi
+By default jird uses Fluidsynth for playback. We can specify which midi
 instruments to use by passing a comma-separated list of general midi
 program numbers with `-p`. For example to use harp (program number 47)
 and acoustic bass (program number 33) we can run
