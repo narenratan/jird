@@ -9,6 +9,7 @@ Related projects
 - `Ratioscore <https://ratioscore.humdrum.org/>`_ - Just intonation tool
 - `Scale workshop <https://sevish.com/scaleworkshop/>`_ - Design and play microtonal scales in your browser
 - `Scala <https://www.huygens-fokker.org/scala/>`_ - Tool for experimentation with musical tunings
+- `Alda <https://github.com/alda-lang/alda>`_ - Text-based programming language for music composition
 
 Books
 -----
