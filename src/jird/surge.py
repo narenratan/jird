@@ -4,12 +4,13 @@ Code to interact with the `Surge XT synth <https://github.com/surge-synthesizer/
 Uses surgepy, the Surge XT Python API. This can be installed by cloning
 the surge repo and pip installing, e.g.
 
+.. code:: console
+
     $ git clone https://github.com/surge-synthesizer/surge.git
     $ python3 -m pip install surge/src/surge-python
 
-There is an example surgepy Jupyter notebook at
-
-    https://github.com/surge-synthesizer/surge/blob/main/scripts/ipy/
+There is an example surgepy Jupyter notebook `here
+<https://github.com/surge-synthesizer/surge/blob/main/scripts/ipy/>`_.
 """
 import logging
 import wave
