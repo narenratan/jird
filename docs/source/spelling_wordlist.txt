@@ -43,6 +43,7 @@ unmapped
 usr
 utils
 wav
+xenharmonic
 xiz
 zyn
 zynaddsubfx
