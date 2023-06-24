@@ -11,7 +11,7 @@ Related projects
 - `Scala <https://www.huygens-fokker.org/scala/>`_ - Tool for experimentation with musical tunings
 - `Alda <https://github.com/alda-lang/alda>`_ - Text-based programming language for music composition
 - `WereSoCool <https://www.weresocool.org/>`_ - A language for composing microtonal music
-- `tune <https://github.com/Woyten/tune>`_ - Make xenharmonic music and create synthesizer tuning files for microtonal scales.
+- `tune <https://github.com/Woyten/tune>`_ - Make xenharmonic music and create synthesizer tuning files for microtonal scales
 
 Books
 -----
