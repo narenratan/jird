@@ -4,6 +4,7 @@ aplaymidi
 bassline
 config
 configs
+csound
 ctrl
 distro
 durations

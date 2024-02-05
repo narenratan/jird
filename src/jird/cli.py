@@ -22,6 +22,7 @@ from jird.core import (
     print_music,
     temper,
 )
+from jird.csound import write_csound_score
 from jird.lilypond import write_lilypond_music
 from jird.parser import LarkError
 from jird.scala import write_scale
@@ -100,6 +101,11 @@ def get_parser() -> ArgumentParser:
         "--lilypond",
         action="store_true",
         help="Write out lilypond representation of music",
+    )
+    parser.add_argument(
+        "--csound",
+        action="store_true",
+        help="Write out Csound representation of music",
     )
     parser.add_argument(
         "--scale",
@@ -304,6 +310,10 @@ def _handle_file(
     elif args.lilypond:
         write_lilypond_music(
             music, f0=config.f, output_path=Path(file).with_suffix(".ly")
+        )
+    elif args.csound:
+        write_csound_score(
+            music, f0=config.f, t0=config.t, output_path=Path(file).with_suffix(".sco")
         )
     elif args.scale:
         write_scale(music, Path(file).with_suffix(".scl"))

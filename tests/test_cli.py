@@ -252,6 +252,8 @@ def test_main(tmp_path, monkeypatch, args, input_lines):
         ["-e", "19", "--scale"],
         ["-i", str(DEFAULT_SURGE_PATCH)],
         ["-i", str(DEFAULT_ZYN_PATCH)],
+        ["--csound"],
+        ["--csound", "-f", "261.63"],
     ],
     ids=str,
 )

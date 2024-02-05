@@ -10,5 +10,6 @@ Reference
    midi
    scala
    lilypond
+   csound
    surge
    zyn

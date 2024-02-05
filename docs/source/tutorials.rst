@@ -9,3 +9,4 @@ Tutorials
    lilypond_tutorial
    synth_tutorial
    midi_tutorial
+   csound_tutorial
