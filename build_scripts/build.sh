@@ -26,4 +26,8 @@ unset CXX
 
 # Build jird executable with nuitka
 export PYTHONPATH=src
-python3.8 -m nuitka --onefile --include-data-dir=src/jird/data/=jird/data/ src/jird/cli.py
+python3.8 -m nuitka \
+  --onefile \
+  --include-data-dir=src/jird/data/=jird/data/ \
+  --no-deployment-flag=self-execution \
+  src/jird/cli.py
